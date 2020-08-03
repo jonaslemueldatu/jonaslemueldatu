@@ -1,0 +1,23 @@
+.ClockContainer {
+  border: 1px solid black;
+  color: rgb(194, 197, 203, 0.6);
+  font-family: var(--Karla);
+  position: absolute;
+}
+.Hours {
+  /* border: 1px solid black; */
+  color: rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  font-size: 100px;
+  left: 130px;
+  letter-spacing: 5px;
+  position: absolute;
+  top: 515px;
+}
+.Seconds {
+  /* border: 1px solid black; */
+  bottom: -780px;
+  font-size: 700px;
+  position: absolute;
+  left: 140px;
+}

@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Name from "./Components/MainPage/Name";
+import Time from "./Components/MainPage/Time";
+import SecondSection from "./Components/MainPage/SecondSection";
+import QuoteGen from "./Components/MainPage/QuoteGen";
+
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="appContainer">
+        <div className="firstSegment">
+          <Name></Name>
+          <Time></Time>
+        </div>
+        <div className="space"></div>
+        <div className="secondSegment">
+          <SecondSection></SecondSection>
+        </div>
+        <div className="space1"></div>
+        <div className="thirdSegment">
+          <QuoteGen></QuoteGen>
+        </div>
+        <div className="space1"></div>
+        <div className="fourthSegment"></div>
+      </div>
     </div>
   );
 }
-
 export default App;

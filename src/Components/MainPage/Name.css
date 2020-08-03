@@ -1,0 +1,30 @@
+.NameContainer {
+  /* border: 1px solid black; */
+  display: flex;
+  flex-direction: column;
+  line-height: 43px;
+  margin-right: 45px;
+  position: absolute;
+  text-align: right;
+  top: 300px;
+  right: 0px;
+  z-index: 5;
+}
+.Name {
+  /* border: 1px solid black; */
+  color: var(--mainColor);
+  display: inline-block;
+  font-family: var(--B612);
+  font-size: 80px;
+  letter-spacing: 5px;
+}
+
+.Quotation {
+  /* border: 1px solid black; */
+  color: rgb(250, 230, 204);
+  display: inline-block;
+  font-family: var(--Karla);
+  letter-spacing: 3px;
+  margin-right: 8px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,15 @@
+.quotesGen {
+  /* border: 1px solid black; */
+  position: relative;
+  font-family: var(--B612);
+  text-align: left;
+  font-size: 30px;
+  letter-spacing: 1px;
+  bottom: 30px;
+  left: 100px;
+  color: black;
+  font-weight: bolder;
+}
+#and {
+  color: rgb(243, 243, 243);
+}
