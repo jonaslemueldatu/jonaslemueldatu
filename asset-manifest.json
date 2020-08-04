@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/jonaslemueldatu/static/css/main.293ac2ce.chunk.css",
-    "main.js": "/jonaslemueldatu/static/js/main.da562633.chunk.js",
-    "main.js.map": "/jonaslemueldatu/static/js/main.da562633.chunk.js.map",
+    "main.css": "/jonaslemueldatu/static/css/main.cbb2c9ef.chunk.css",
+    "main.js": "/jonaslemueldatu/static/js/main.466f33fa.chunk.js",
+    "main.js.map": "/jonaslemueldatu/static/js/main.466f33fa.chunk.js.map",
     "runtime-main.js": "/jonaslemueldatu/static/js/runtime-main.8392b63f.js",
     "runtime-main.js.map": "/jonaslemueldatu/static/js/runtime-main.8392b63f.js.map",
     "static/css/2.4707e12a.chunk.css": "/jonaslemueldatu/static/css/2.4707e12a.chunk.css",
-    "static/js/2.09c2d07f.chunk.js": "/jonaslemueldatu/static/js/2.09c2d07f.chunk.js",
-    "static/js/2.09c2d07f.chunk.js.map": "/jonaslemueldatu/static/js/2.09c2d07f.chunk.js.map",
+    "static/js/2.21a050cf.chunk.js": "/jonaslemueldatu/static/js/2.21a050cf.chunk.js",
+    "static/js/2.21a050cf.chunk.js.map": "/jonaslemueldatu/static/js/2.21a050cf.chunk.js.map",
     "index.html": "/jonaslemueldatu/index.html",
-    "precache-manifest.7c84fefa21926dd370426131530678f1.js": "/jonaslemueldatu/precache-manifest.7c84fefa21926dd370426131530678f1.js",
+    "precache-manifest.325bf37b6d37d1fd545d746d15505c16.js": "/jonaslemueldatu/precache-manifest.325bf37b6d37d1fd545d746d15505c16.js",
     "service-worker.js": "/jonaslemueldatu/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/jonaslemueldatu/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.293ac2ce.chunk.css.map": "/jonaslemueldatu/static/css/main.293ac2ce.chunk.css.map",
-    "static/js/2.09c2d07f.chunk.js.LICENSE.txt": "/jonaslemueldatu/static/js/2.09c2d07f.chunk.js.LICENSE.txt",
+    "static/css/main.cbb2c9ef.chunk.css.map": "/jonaslemueldatu/static/css/main.cbb2c9ef.chunk.css.map",
+    "static/js/2.21a050cf.chunk.js.LICENSE.txt": "/jonaslemueldatu/static/js/2.21a050cf.chunk.js.LICENSE.txt",
     "static/media/App.css": "/jonaslemueldatu/static/media/cityBackground.739c5332.jpg",
     "static/media/gears.png": "/jonaslemueldatu/static/media/gears.59eac631.png",
     "static/media/jonasV2.png": "/jonaslemueldatu/static/media/jonasV2.44f855eb.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.8392b63f.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.09c2d07f.chunk.js",
-    "static/css/main.293ac2ce.chunk.css",
-    "static/js/main.da562633.chunk.js"
+    "static/js/2.21a050cf.chunk.js",
+    "static/css/main.cbb2c9ef.chunk.css",
+    "static/js/main.466f33fa.chunk.js"
   ]
 }
